@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/joseluizcoe/ibm-watson-image-recognition#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "watson-developer-cloud": "^4.0.1"
